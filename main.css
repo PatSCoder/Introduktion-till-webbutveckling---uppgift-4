@@ -1,0 +1,18 @@
+/* css file main.css */
+
+
+/* element h1 with color blue */
+
+h1{
+
+  color: blue;
+
+}
+
+/* class completed with decoration and color */
+
+.completed{
+
+  text-decoration: line-through;
+  color: #888;
+}
